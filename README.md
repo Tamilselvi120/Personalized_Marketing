@@ -1,4 +1,4 @@
-# Project-1
+# Project_Personalized-Marketing
 # Personalized Marketing and Customer Experience
 
 # Overview
